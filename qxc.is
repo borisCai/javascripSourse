@@ -1,0 +1,7 @@
+(function() {   
+    //JS判断闰年代码
+    function test(a) {
+       alert('github');
+    }
+    
+})();
