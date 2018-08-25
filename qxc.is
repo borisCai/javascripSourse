@@ -1,5 +1,5 @@
 function  test() {   
-   return "33";
+   alert('1122');
     
 };
 fuction re_date(name){
