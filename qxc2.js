@@ -1,5 +1,5 @@
 function redate(name){
-var date="";
+var date="2001-01-01";
 if(name=='aqaqa'){
  date="2118-01-03";
 }else if (name=='1036015f-f697-4b83-bf99-11ef8a253793'){
